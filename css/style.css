@@ -57,14 +57,14 @@ img {
     max-width: 1000px;
     margin: 0;
     padding: 7px 20px;
-    background: red;
+    background: #fff;
     border-radius: 15px;
 }
 p {
     font-size: 16px;
     line-height: 1.4;
     margin-bottom: 25px;
-    color: #fff;
+    color: #1d1d1d;
 }
 a {
     text-decoration: none;
