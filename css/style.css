@@ -124,7 +124,8 @@ table {
   width: 100%;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
   border-radius: 15px;
-overflow:hidden;
+  margin: 0 auto;
+  overflow:hidden;
 }
 
 td, th {
@@ -136,6 +137,9 @@ td, th {
 th {
   background-color: #0086dd;
   color: #fff;
+}
+table td {
+  padding: 1rem;
 }
 .spe {
     background: red;
